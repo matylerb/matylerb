@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Tyler, a Data Science and A.I. student at Technological University Dublin.</p>
+<p align="center">I'm Tyler, a Data Science and A.I. student at Technological University Dublin.</p>
 
 ###
 
